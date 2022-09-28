@@ -2,19 +2,23 @@
 abhishek-0713/abhishek-0713 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hi👋,+I+am+Abhishek+D.+Patil;A+Rising+Java+Developer;" style="width: 90%;">
+<div>
 
-<!-- ### Hi 👋, I am Abhishek D. Patil -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hi👋,+I+am+Abhishek+D.+Patil;A+Rising+Java+Developer;" align='left' style="width: 70%;">
 
- <img src="https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif" alt="CoderAbhi0713" width = "100%" height= "400"> 
+</br>
 
 ![Profile views](https://gpvc.arturio.dev/abhishek-0713)
+
+</div>
+<!-- ### Hi 👋, I am Abhishek D. Patil -->
+
+ <!-- <img src="https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif" alt="CoderAbhi0713" width = "100%" height= "400">  -->
 
 <div>
 
  <img src="https://topdevs.org/images/site/services/webdev/hero-bg.svg" alt="Coder" width = "50%" height= "270" align = "right"> 
  
-</br>
 </br> </br>
 
 - 🔭 I’m currently working on TCS Clone 
