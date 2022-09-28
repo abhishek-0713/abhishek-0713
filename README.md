@@ -2,11 +2,11 @@
 abhishek-0713/abhishek-0713 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hi👋,+I+am+Abhishek+D.+Patil;A+Rising+Java+Developer;" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hi👋,+I+am+Abhishek+D.+Patil;A+Rising+Java+Developer;" style="width: 90%;">
 
 <!-- ### Hi 👋, I am Abhishek D. Patil -->
 
-![](https://topdevs.org/images/site/services/webdev/hero-bg.svg?w=740)
+<img src="https://topdevs.org/images/site/services/webdev/hero-bg.svg" alt="github" width = "100%" height= "400">
 
 ![Profile views](https://gpvc.arturio.dev/abhishek-0713)
 
