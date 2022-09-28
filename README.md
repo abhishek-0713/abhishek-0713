@@ -2,9 +2,10 @@
 abhishek-0713/abhishek-0713 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Profile views](https://gpvc.arturio.dev/abhishek-0713)
 ### Hi 👋, I am Abhishek D. Patil
-![](https://img.freepik.com/premium-vector/programmer-coder-concentrated-working-project-developing-programming-coding-technologies_569013-338.jpg?w=740)
+![](https://topdevs.org/images/site/services/webdev/hero-bg.svg?w=740)
+
+![Profile views](https://gpvc.arturio.dev/abhishek-0713)
 
 Skills: C | C++ | Hibernate & JPA | SQL | Spring Boot | Oops | Node.js | JavaScript | HTML5 | CSS3 | AWS experience & Full-Stack knowledge
 
