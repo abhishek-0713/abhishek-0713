@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 </h3>
 
 <p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&background=FFFFFF00&width=500&height=51&lines=Full+Stack+Web+and+App+Developer;Rising+Java+Developer;Always+Learning+New+Things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&background=FFFFFF00&width=700&height=51&lines=Full+Stack+Web+and+App+Developer;Rising+Java+Developer;First,+solve+the+problem.+Then,+write+the+code." alt="Typing SVG" /></a>
 </p>
 
  <!-- <img src="https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif" alt="CoderAbhi0713" width = "100%" height= "400">  -->
@@ -138,7 +138,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Trophy & Stats :
 
-| [![trophy](https://github-profile-trophy.vercel.app/?username=abhishek-0713)](https://github.com/ryo-ma/github-profile-trophy) | <a align='right' href="https://github.com/abhishek-0713/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-0713&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> |
+| [![trophy](https://github-profile-trophy.vercel.app/?username=abhishek-0713)](https://github.com/ryo-ma/github-profile-trophy) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-0713&layout=compact)](https://github.com/abhishek-0713/github-readme-stats) |
 | :---: | :---: |
 
 
