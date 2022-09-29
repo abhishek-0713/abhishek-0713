@@ -14,6 +14,8 @@ You can click the Preview link to take a look at your changes.
 
  <!-- <img src="https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif" alt="CoderAbhi0713" width = "100%" height= "400">  -->
 
+<!-- --------------------------------------------------------------    Intoduction  ---------------------------------------------------------------------------- -->
+
 <div>
 
  <img src="https://topdevs.org/images/site/services/webdev/hero-bg.svg" alt="Coder" width = "50%" height= "270" align = "right"> 
@@ -30,6 +32,9 @@ You can click the Preview link to take a look at your changes.
 </div>
  </br> </br>
  </br> </br>
+ 
+ <!-- -------------------------------------------------------------    Middle Section  ------------------------------------------------------------------------- -->
+
  
  ## 🛠️ My favorite tools : 
 
@@ -101,14 +106,18 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
-
-
 </br>
+
+<!-- --------------------------------------------------------------    Achievements  ---------------------------------------------------------------------------- -->
+
 
 ## 🏆Achievements : 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 </br>
+
+<!-- --------------------------------------------------------------    Social Media  ---------------------------------------------------------------------------- -->
+
 
 ## 📮Be Connected : 
 <p align="left">
@@ -122,13 +131,15 @@ You can click the Preview link to take a look at your changes.
 
 </br>
 
+
+<!-- -------------------------------------------------------------   Trophy and Stats  ------------------------------------------------------------------------- -->
+
+
+
 ## Trophy & Stats :
-
-
 
 | [![trophy](https://github-profile-trophy.vercel.app/?username=abhishek-0713)](https://github.com/ryo-ma/github-profile-trophy) | <a align='right' href="https://github.com/abhishek-0713/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-0713&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> |
 | :---: | :---: |
-
 
 
 | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek-0713&theme=dark&show_icons=true&count_private=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=abhishek-0713&theme=dark&border_radius=4)](https://git.io/streak-stats) |
