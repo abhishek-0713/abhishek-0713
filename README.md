@@ -138,4 +138,4 @@ You can click the Preview link to take a look at your changes.
 | [![Abhishek's github activity graph](https://activity-graph.herokuapp.com/graph?username=abhishek-0713&theme=react-dark)](https://github.com/abhishek/github-readme-activity-graph) |  
 | :---: |
 
-<!--  ![GitHub metrics](https://metrics.lecoq.io/abhishek-0713) -->
+  ![GitHub metrics](https://metrics.lecoq.io/abhishek-0713) 
