@@ -21,6 +21,7 @@ You can click the Preview link to take a look at your changes.
  <img src="https://topdevs.org/images/site/services/webdev/hero-bg.svg" alt="Coder" width = "50%" height= "270" align = "right"> 
  
 </br> </br>
+
  [![Stars](https://img.shields.io/github/stars/abhishek-0713?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) 
  [![Followers](https://img.shields.io/github/followers/abhishek-0713)](#)
 ![Profile views](https://gpvc.arturio.dev/abhishek-0713)
@@ -32,10 +33,9 @@ You can click the Preview link to take a look at your changes.
 
 </div>
  </br> </br>
- </br> </br>
- 
- <!-- -------------------------------------------------------------    Middle Section  ------------------------------------------------------------------------- -->
+ </br>
 
+ <!-- -------------------------------------------------------------    Middle Section  ------------------------------------------------------------------------- -->
  
  ## 🛠️ Skills : 
 
@@ -100,13 +100,25 @@ You can click the Preview link to take a look at your changes.
 
 <!-- --------------------------------------------------------------    Achievements  ---------------------------------------------------------------------------- -->
 
-
 ## 🏆Achievements : 
+
+<div>
+ 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-</br>
+<div align='right'>
+<!-- -------------------------------------------------------------   Thoughts  ------------------------------------------------------------------------- -->
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) 
+ 
+ </div>
+ 
+</div>
+
+ </br> 
 
 <!-- --------------------------------------------------------------    Social Media  ---------------------------------------------------------------------------- -->
+<div>
 
 
 ## 📮Be Connected : 
@@ -119,14 +131,21 @@ You can click the Preview link to take a look at your changes.
 <a href="https://auth.geeksforgeeks.org/user/coder_abhi0713" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="coder_abhi0713" height="30" width="40" /></a>
 </p>
 
-</br>
+<div align='right'>
 
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+
+</div>
+
+</div>
+
+</br>
 
 <!-- -------------------------------------------------------------   Trophy and Stats  ------------------------------------------------------------------------- -->
 
 ## Leetcode Stats :
 
-|  ![LeetCode Stats](https://leetcode.card.workers.dev/coder_abhi0713?theme=auto&font=) | <img align="center" src="https://raw.githubusercontent.com/abhishek-0713/abhishek-0713/main/profile-3d-contrib/profile-night-green.svg" alt="coder_abhi0713" height="250" width="700" /> |
+|  ![LeetCode Stats](https://leetcode.card.workers.dev/coder_abhi0713?theme=auto&font=) |  |
 | :---: | :---: |
 
 
@@ -142,4 +161,5 @@ You can click the Preview link to take a look at your changes.
 | [![Abhishek's github activity graph](https://activity-graph.herokuapp.com/graph?username=abhishek-0713&theme=react-dark)](https://github.com/abhishek/github-readme-activity-graph) |  
 | :---: |
 
+<img align="center" src="https://raw.githubusercontent.com/abhishek-0713/abhishek-0713/main/profile-3d-contrib/profile-night-green.svg" alt="coder_abhi0713" height="450" width="100%" />
   ![GitHub metrics](https://metrics.lecoq.io/abhishek-0713) 
