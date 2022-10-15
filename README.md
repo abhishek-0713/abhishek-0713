@@ -123,6 +123,9 @@ You can click the Preview link to take a look at your changes.
 
 <!-- -------------------------------------------------------------   Trophy and Stats  ------------------------------------------------------------------------- -->
 
+## Leetcode Stats :
+
+![LeetCode Stats](https://leetcode.card.workers.dev/coder_abhi0713?theme=auto&font=)
 
 
 ## Trophy & Stats :
