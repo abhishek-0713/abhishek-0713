@@ -11,7 +11,7 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v2
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.0
+      - uses: abhishek-0713/github-profile-3d-contrib@0.7.0
         env:
           GITHUB_TOKEN: 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
           USERNAME: abhishek-0713
