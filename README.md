@@ -126,7 +126,8 @@ You can click the Preview link to take a look at your changes.
 
 ## Leetcode Stats :
 
-![LeetCode Stats](https://leetcode.card.workers.dev/coder_abhi0713?theme=auto&font=)
+|  ![LeetCode Stats](https://leetcode.card.workers.dev/coder_abhi0713?theme=auto&font=) | <img align="center" src="https://raw.githubusercontent.com/abhishek-0713/abhishek-0713/main/profile-3d-contrib/profile-night-green.svg" alt="coder_abhi0713" height="250" width="700" /> |
+| :---: | :---: |
 
 
 ## Trophy & Stats :
