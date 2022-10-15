@@ -33,7 +33,12 @@ You can click the Preview link to take a look at your changes.
 
 </div>
  </br> </br>
- </br>
+ 
+ 
+
+| # Leetcode   ![LeetCode Stats](https://leetcode.card.workers.dev/coder_abhi0713?theme=auto&font=) | # Stackoverflow  [![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=20249587)](https://stackoverflow.com/users/20249587/abhishek-d-patil) |
+| :---: | :---: |
+
 
  <!-- -------------------------------------------------------------    Middle Section  ------------------------------------------------------------------------- -->
  
@@ -106,7 +111,7 @@ You can click the Preview link to take a look at your changes.
  
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-<div align='right'>
+<div align='center'>
 <!-- -------------------------------------------------------------   Thoughts  ------------------------------------------------------------------------- -->
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) 
@@ -131,7 +136,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://auth.geeksforgeeks.org/user/coder_abhi0713" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="coder_abhi0713" height="30" width="40" /></a>
 </p>
 
-<div align='right'>
+<div align='center'>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
@@ -142,12 +147,6 @@ You can click the Preview link to take a look at your changes.
 </br>
 
 <!-- -------------------------------------------------------------   Trophy and Stats  ------------------------------------------------------------------------- -->
-
-## Leetcode Stats :
-
-|  ![LeetCode Stats](https://leetcode.card.workers.dev/coder_abhi0713?theme=auto&font=) |  |
-| :---: | :---: |
-
 
 ## Trophy & Stats :
 
