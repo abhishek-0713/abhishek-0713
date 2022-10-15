@@ -161,6 +161,6 @@ You can click the Preview link to take a look at your changes.
 | [![Abhishek's github activity graph](https://activity-graph.herokuapp.com/graph?username=abhishek-0713&theme=react-dark)](https://github.com/abhishek/github-readme-activity-graph) |  
 | :---: |
 
-<img align="center" src="https://raw.githubusercontent.com/abhishek-0713/abhishek-0713/main/profile-3d-contrib/profile-night-green.svg" alt="coder_abhi0713" height="450" width="100%" />
+<img align="center" src="https://raw.githubusercontent.com/abhishek-0713/abhishek-0713/main/profile-3d-contrib/profile-night-green.svg" alt="coder_abhi0713" height="750" width="100%" />
 
  <!-- ![GitHub metrics](https://metrics.lecoq.io/abhishek-0713) -->
