@@ -120,11 +120,8 @@ You can click the Preview link to take a look at your changes.
  
 </div>
 
- </br> 
-
 <!-- --------------------------------------------------------------    Social Media  ---------------------------------------------------------------------------- -->
 <div>
-
 
 ## 📮Be Connected : 
 <p align="left">
@@ -143,9 +140,6 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 </div>
-
-</br>
-
 <!-- -------------------------------------------------------------   Trophy and Stats  ------------------------------------------------------------------------- -->
 
 ## Trophy & Stats :
