@@ -1,12 +1,6 @@
-<!---
-abhishek-0713/abhishek-0713 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!-- ### Hi 👋, I am Abhishek D. Patil -->
+<img width=100% title="Coder Abhi." alt="CoderAbhi.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Born-To-Code🔰&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<h3>
-  Hi 👋, I Am Abhishek D. Patil                                               
-</h3>
+### Hi 👋, I am Abhishek D. Patil 
 
 <p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&background=FFFFFF00&width=700&height=51&lines=Full+Stack+Web+and+App+Developer;Rising+Java+Developer;First,+solve+the+problem.+Then,+write+the+code." alt="Typing SVG" /></a>
@@ -159,3 +153,5 @@ You can click the Preview link to take a look at your changes.
 <!-- <img align="center" src="https://raw.githubusercontent.com/abhishek-0713/abhishek-0713/main/profile-3d-contrib/profile-night-green.svg" alt="coder_abhi0713" height="750" width="100%" />  -->
 
  <!-- ![GitHub metrics](https://metrics.lecoq.io/abhishek-0713) -->
+
+<img width=100% title="Coder Abhi." alt="CoderAbhi.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
