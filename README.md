@@ -20,9 +20,13 @@
  [![Followers](https://img.shields.io/github/followers/abhishek-0713)](#)
 ![Profile views](https://gpvc.arturio.dev/abhishek-0713)
 - 🔭 I’m currently working on Android Developement
+
 - 🌱 I’m currently learning Java Spring Boot 
+
 - 💞️ I’m looking to collaborate on Instagram Clone
+
 - 💬 Ask me about Data Structures and Algorithms 
+
 - 📫 How to reach me: coder.abhi0713@gmail.com 
 
 </div>
