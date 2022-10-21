@@ -147,10 +147,10 @@
 | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek-0713&theme=dark&show_icons=true&count_private=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=abhishek-0713&theme=dark&border_radius=4)](https://git.io/streak-stats) |
 | :---: | :---: |
 
-| [![Abhishek's github activity graph](https://activity-graph.herokuapp.com/graph?username=abhishek-0713&theme=react-dark)](https://github.com/abhishek/github-readme-activity-graph) |  
-| :---: |
+<!-- | [![Abhishek's github activity graph](https://activity-graph.herokuapp.com/graph?username=abhishek-0713&theme=react-dark)](https://github.com/abhishek/github-readme-activity-graph) |  
+| :---: | -->
 
-<!-- <img align="center" src="https://raw.githubusercontent.com/abhishek-0713/abhishek-0713/main/profile-3d-contrib/profile-night-green.svg" alt="coder_abhi0713" height="750" width="100%" />  -->
+<img align="center" src="https://raw.githubusercontent.com/abhishek-0713/abhishek-0713/main/profile-3d-contrib/profile-night-green.svg" alt="coder_abhi0713" height="750" width="100%" /> 
 
  <!-- ![GitHub metrics](https://metrics.lecoq.io/abhishek-0713) -->
 
