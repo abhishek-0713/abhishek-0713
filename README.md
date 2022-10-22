@@ -15,9 +15,8 @@
  <img src="https://topdevs.org/images/site/services/webdev/hero-bg.svg" alt="Coder" width = "50%" height= "270" align = "right"> 
  
 </br> </br>
-
+<!-- [![Followers](https://img.shields.io/github/followers/abhishek-0713)](#) -->
  [![Stars](https://img.shields.io/github/stars/abhishek-0713?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) 
- [![Followers](https://img.shields.io/github/followers/abhishek-0713)](#)
 ![Profile views](https://gpvc.arturio.dev/abhishek-0713)
 - 🔭 I’m currently working on Android Developement
 
