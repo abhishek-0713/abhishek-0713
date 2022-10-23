@@ -156,3 +156,5 @@
 <img align="center" src="https://raw.githubusercontent.com/abhishek-0713/abhishek-0713/main/profile-3d-contrib/profile-night-green.svg" alt="coder_abhi0713" height="550" width="100%" /> 
 
  <!-- ![GitHub metrics](https://metrics.lecoq.io/abhishek-0713) -->
+
+<img width=100% title="Coder Abhi." alt="CoderAbhi.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Eat🍴-Sleep🛌-Code👨‍💻-Repeat🔁&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
