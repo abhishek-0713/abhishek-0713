@@ -20,13 +20,15 @@
 ![Profile views](https://gpvc.arturio.dev/abhishek-0713)
 - 🔭 I’m currently working on Android Developement
 
-- 🌱 I’m currently learning Java Spring Boot 
+- 🌱 I’m currently learning Java Spring Boot.
 
-- 💞️ I’m looking to collaborate on Instagram Clone
+- 💞️ I’m looking to collaborate on API Projects.
 
-- 💬 Ask me about Data Structures and Algorithms 
+- 💬 Ask me about Data Structures and Algorithms.
 
-- 📫 How to reach me: coder.abhi0713@gmail.com 
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1PcIMLCbNzpFs0hNhhLv-tHh6aj7bGPdx/view?usp=sharing">Resume.</a>
+
+- 👨‍💻 All of my projects are available at <a href="https://abhishek-0713.github.io/">Abhishek D. Patil's Portfolio.</a>
 
 </div>
 
