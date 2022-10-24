@@ -33,13 +33,19 @@
  </br> </br>
  </br>
  
- 
+ <!-- -------------------------------------------------------------   Thoughts  ------------------------------------------------------------------------- -->
 
-| # Leetcode   ![LeetCode Stats](https://leetcode.card.workers.dev/coder_abhi0713?theme=auto&font=) | # Stackoverflow  [![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=20249587)](https://stackoverflow.com/users/20249587/abhishek-d-patil) |
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) 
+
+ 
+  <!-- ---------------------------------------------------  StackOverflow & LeetCode  ------------------------------------------------------------------- -->
+
+
+| # Stackoverflow  [![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=20249587)](https://stackoverflow.com/users/20249587/abhishek-d-patil)  | # Leetcode   ![LeetCode Stats](https://leetcode.card.workers.dev/coder_abhi0713?theme=auto&font=) |
 | :---: | :---: |
 
 
- <!-- -------------------------------------------------------------    Middle Section  ------------------------------------------------------------------------- -->
+ <!-- -------------------------------------------------------    Middle Section  ----------------------------------------------------------------------- -->
  
  ## 🛠️ Skills : 
 
@@ -91,24 +97,7 @@
 
 </br>
 
-<!-- --------------------------------------------------------------    Achievements  ---------------------------------------------------------------------------- -->
-
-## QuotesOfTheDay 
-<!--
-<div>
- 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>  -->
-
-<div align='start'>
-<!-- -------------------------------------------------------------   Thoughts  ------------------------------------------------------------------------- -->
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) 
- 
- </div>
- 
-</div>
-
-<!-- --------------------------------------------------------------    Social Media  ---------------------------------------------------------------------------- -->
+<!-- ----------------------------------------------------------    Social Media  ---------------------------------------------------------------------- -->
 <div>
 
 ## 📮Be Connected : 
