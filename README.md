@@ -133,8 +133,21 @@
 | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek-0713&theme=dark&show_icons=true&count_private=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=abhishek-0713&theme=dark&border_radius=4)](https://git.io/streak-stats) |
 | :---: | :---: |
 
-<!-- | [![Abhishek's github activity graph](https://activity-graph.herokuapp.com/graph?username=abhishek-0713&theme=react-dark)](https://github.com/abhishek/github-readme-activity-graph) |  
-| :---: | -->
+
+<details>
+   <summary><b>:rocket: &nbsp;Github stats Detailed</b></summary>
+   </br>
+  
+<table><tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhishek-0713&theme=2077"/></td><td>
+<img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek-0713&theme=2077"/></td></tr></table>
+<table><tr><td width="430"><img width="500"  height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishek-0713&theme=2077"/></td>
+<td width="430"><img width="500" height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishek-0713&theme=2077"/></td></tr></table>
+
+[![Abhishek's github activity graph](https://activity-graph.herokuapp.com/graph?username=abhishek-0713&theme=react-dark)](https://github.com/abhishek/github-readme-activity-graph)  
+
+</br>
+</details>
+
 
 <img align="center" src="https://raw.githubusercontent.com/abhishek-0713/abhishek-0713/main/profile-3d-contrib/profile-night-green.svg" alt="coder_abhi0713" height="550" width="100%" /> 
 
