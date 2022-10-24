@@ -50,7 +50,7 @@
  
  ## 🛠️ Skills : 
 
- ### 👨‍💻 Programming and markup languages:
+ ### 👨‍💻 Programming and markup languages
 
 <code><a href="https://github.com/search?q=user%3Aabhishek-0713+language%3Ajava"><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code> 
 <code><a href="https://github.com/search?q=user%3Aabhishek-0713+language%3Ajavascript"><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
@@ -67,7 +67,7 @@
 
 </br>
 
-### 🧰 Frameworks and libraries:
+### 🧰 Frameworks and libraries
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
@@ -78,7 +78,7 @@
 
 </br>
 
-### 🗄️ Databases and cloud hosting:
+### 🗄️ Databases and cloud hosting
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
@@ -90,7 +90,7 @@
 
 </br>
 
-### 💻 Software and tools:
+### 💻 Software and tools
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code>
@@ -105,7 +105,7 @@
 <!-- ----------------------------------------------------------    Social Media  ---------------------------------------------------------------------- -->
 <div>
 
-## 📮Be Connected : 
+## 📮Be Connected :
 <p align="left">
 <a href="https://linkedin.com/in/abhishek-patil-8b6780235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-patil-8b6780235" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/coder_abhi0713" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="coder_abhi0713" height="30" width="40" /></a>
