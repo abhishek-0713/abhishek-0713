@@ -18,8 +18,6 @@
 <!-- [![Followers](https://img.shields.io/github/followers/abhishek-0713)](#) -->
  [![Stars](https://img.shields.io/github/stars/abhishek-0713?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) 
 ![Profile views](https://gpvc.arturio.dev/abhishek-0713)
-- 🔭 I’m currently working on Android Developement
-
 - 🌱 I’m currently learning Java Spring Boot.
 
 - 💞️ I’m looking to collaborate on API Projects.
