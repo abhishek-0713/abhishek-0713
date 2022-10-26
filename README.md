@@ -34,13 +34,13 @@
  
  <!-- -------------------------------------------------------------   Thoughts  ------------------------------------------------------------------------- -->
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default) 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react-dark) 
 
  </br>
   <!-- ---------------------------------------------------  StackOverflow & LeetCode  ------------------------------------------------------------------- -->
 
 
-| # Stackoverflow  [![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=20249587)](https://stackoverflow.com/users/20249587/abhishek-d-patil)  | # Leetcode   ![LeetCode Stats](https://leetcode.card.workers.dev/coder_abhi0713?theme=auto&font=) |
+| # Stackoverflow  [![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=20249587)](https://stackoverflow.com/users/20249587/abhishek-d-patil)  | # Leetcode   ![LeetCode Stats](https://leetcode.card.workers.dev/coder_abhi0713?theme=react-dark&font=) |
 | :---: | :---: |
 
 
