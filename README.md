@@ -143,7 +143,7 @@
 <table><tr><td width="430"><img width="500"  height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishek-0713&theme=2077"/></td>
 <td width="430"><img width="500" height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishek-0713&theme=2077"/></td></tr></table>
 
-[![Abhishek's github activity graph](https://activity-graph.herokuapp.com/graph?username=abhishek-0713&theme=react-dark)](https://github.com/abhishek/github-readme-activity-graph)  
+[![Abhishek's github activity graph](https://activity-graph.herokuapp.com/graph?username=abhishek-0713&theme=react-dark)](https://github.com/abhishek-0713/github-readme-activity-graph)  
 
 </br>
 </details>
