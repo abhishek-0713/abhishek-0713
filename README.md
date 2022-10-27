@@ -106,14 +106,11 @@
 <div>
 
 ## 📮Be Connected :
-<p align="left">
-<a href="https://linkedin.com/in/abhishek-patil-8b6780235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-patil-8b6780235" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/coder_abhi0713" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="coder_abhi0713" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/coder_abhi0713" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="coder_abhi0713" height="30" width="40" /></a>
-<a href="https://instagram.com/abhishekpatil.24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishekpatil.24" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/coder.abhi71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="coder.abhi71" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/coder_abhi0713" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="coder_abhi0713" height="30" width="40" /></a>
-</p>
+ 
+<code><a href="https://linkedin.com/in/abhishek-patil-8b6780235/"><img width="10%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code> 
+<code><a href="https://www.leetcode.com/coder_abhi0713"><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg"></a></code>
+<code><a href="https://www.hackerrank.com/coder_abhi0713/"><img width="10%" src="https://user-images.githubusercontent.com/105943862/198336706-a223d43a-79bc-48c0-a5b3-61af6330163a.png"></a></code>
+<code><a href=""><img width="10%" src="https://www.vectorlogo.zone/logos/skype/skype-ar21.svg"></a></code>
 
 <div align='center'>
 
@@ -121,7 +118,6 @@
 
 </div>
 
-</div>
 <!-- -------------------------------------------------------------   Trophy and Stats  ------------------------------------------------------------------------- -->
 
 ## Trophy & Stats :
