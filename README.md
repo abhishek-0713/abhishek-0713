@@ -112,11 +112,13 @@
 <code><a href="https://www.hackerrank.com/coder_abhi0713/"><img width="10%" src="https://user-images.githubusercontent.com/105943862/198336706-a223d43a-79bc-48c0-a5b3-61af6330163a.png"></a></code>
 <code><a href="https://join.skype.com/invite/r10m6y3GdzGC"><img width="10%" src="https://www.vectorlogo.zone/logos/skype/skype-ar21.svg"></a></code>
 
-<div align='center'>
+ <details>
+    <summary><b>:rocket: &nbsp;Fun Fact</b></summary>
+    </br>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
-
-</div>
+  
+ </Details>
 
 <!-- -------------------------------------------------------------   Trophy and Stats  ------------------------------------------------------------------------- -->
 
