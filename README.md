@@ -113,7 +113,7 @@
 <code><a href="https://join.skype.com/invite/r10m6y3GdzGC"><img width="10%" src="https://www.vectorlogo.zone/logos/skype/skype-ar21.svg"></a></code>
 
  <details>
-    <summary><b>:rocket: &nbsp;Fun Fact</b></summary>
+    <summary><b>😅 Fun Fact</b></summary>
     </br>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
