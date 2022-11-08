@@ -22,7 +22,7 @@
 ![Profile views](https://gpvc.arturio.dev/abhishek-0713)
 - 🌱 I’m currently learning Java Spring Boot.
 
-- 💞️ I’m looking to collaborate on API Projects.
+- 💞️ I’m looking to collaborate on HR Management System.
 
 - 💬 Ask me about Data Structures and Algorithms.
 
