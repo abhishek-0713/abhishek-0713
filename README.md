@@ -1,7 +1,7 @@
-<img width=100% title="Coder Abhi." alt="CoderAbhi.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Born-To-Code🔰&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width=40% align = left title="Coder Abhi." alt="CoderAbhi.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Born-To-Code🔰&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<!-- ![Blue Isometric Line Digital Marketing LinkedIn Banner](https://user-images.githubusercontent.com/105943862/200484450-6bc2f1be-6e5a-4e91-a6d8-c45a18949f5a.png)
- -->
+![Blue Isometric Line Digital Marketing LinkedIn Banner](https://user-images.githubusercontent.com/105943862/200484450-6bc2f1be-6e5a-4e91-a6d8-c45a18949f5a.png)
+
 
 ### Hi 👋, I am Abhishek D. Patil 
 <p>
