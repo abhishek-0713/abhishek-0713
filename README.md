@@ -115,13 +115,10 @@
 <code><a href="https://www.hackerrank.com/coder_abhi0713/"><img width="10%" src="https://user-images.githubusercontent.com/105943862/198336706-a223d43a-79bc-48c0-a5b3-61af6330163a.png"></a></code>
 <code><a href="https://join.skype.com/invite/r10m6y3GdzGC"><img width="10%" src="https://www.vectorlogo.zone/logos/skype/skype-ar21.svg"></a></code>
 
- <details>
-    <summary><b>😅 Fun Fact</b></summary>
-    </br>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
-  
- </Details>
+
+| ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default) | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ngxw5xgsjaij6ffupb6hwggzim&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31ngxw5xgsjaij6ffupb6hwggzim&redirect=true) |
+| :---: | :---: |
 
 <!-- -------------------------------------------------------------   Trophy and Stats  ------------------------------------------------------------------------- -->
 
