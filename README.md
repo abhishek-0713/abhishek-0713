@@ -110,7 +110,7 @@
 
 ## 📮Be Connected :
  
-<code><a href="https://www.linkedin.com/in/abhishek-walke-8b6780235/"><img width="10%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code> 
+<code><a href="https://www.linkedin.com/in/abhishek-d-walke-8b6780235/"><img width="10%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code> 
 <code><a href="https://www.leetcode.com/coder_abhi0713"><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg"></a></code>
 <code><a href="https://www.hackerrank.com/coder_abhi0713/"><img width="10%" src="https://user-images.githubusercontent.com/105943862/198336706-a223d43a-79bc-48c0-a5b3-61af6330163a.png"></a></code>
 <code><a href="https://join.skype.com/invite/r10m6y3GdzGC"><img width="10%" src="https://www.vectorlogo.zone/logos/skype/skype-ar21.svg"></a></code>
