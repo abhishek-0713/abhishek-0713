@@ -26,7 +26,7 @@
 
 - 💬 Ask me about Data Structures and Algorithms.
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1PcIMLCbNzpFs0hNhhLv-tHh6aj7bGPdx/view?usp=sharing">Resume.</a>
+- 📄 Know about my experiences <a href="https://github.com/abhishek-0713/Resume/files/10715705/abhishek-walke-resume.pdf">Resume.</a>
 
 - 👨‍💻 All of my projects are available at <a href="https://abhishek-0713.github.io/">Abhishek's Portfolio.</a>
 
