@@ -20,11 +20,11 @@
 <!-- [![Followers](https://img.shields.io/github/followers/abhishek-0713)](#) -->
  [![Stars](https://img.shields.io/github/stars/abhishek-0713?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) 
 ![Profile views](https://gpvc.arturio.dev/abhishek-0713)
-- 🌱 I’m currently learning Java Spring Boot.
+- 🌱 I’m currently learning `AWS.`
 
-- 💞️ I’m looking to collaborate on Course Monitoring System.
+- 💞️ I’m looking to collaborate on `Freelancing Projects.`
 
-- 💬 Ask me about Data Structures and Algorithms.
+- 💬 Ask me about `Java and Data Structure Algorithms.`
 
 - 📄 Know about my experiences <a href="https://github.com/abhishek-0713/Resume/files/10715705/abhishek-walke-resume.pdf">Resume.</a>
 
