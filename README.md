@@ -90,8 +90,8 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
+<!-- <code><img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code> -->
+<!-- <code><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code> -->
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/replit/replit-ar21.svg"></code>
 
 </br>
@@ -145,7 +145,7 @@
 <table><tr><td width="430"><img width="500"  height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishek-0713&theme=2077"/></td>
 <td width="430"><img width="500" height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishek-0713&theme=2077"/></td></tr></table>
 
-[![Abhishek's github activity graph](https://activity-graph.herokuapp.com/graph?username=abhishek-0713&theme=react-dark)](https://github.com/abhishek-0713/github-readme-activity-graph)  
+<!-- [![Abhishek's github activity graph](https://activity-graph.herokuapp.com/graph?username=abhishek-0713&theme=react-dark)](https://github.com/abhishek-0713/github-readme-activity-graph)   -->
 
 </br>
 </details>
